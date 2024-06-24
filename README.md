@@ -35,7 +35,7 @@ Kullanıcıların favori Pokémon'larını işaretleyebileceği ve listeleyebile
 Uygulamayı açtığınızda, ilk olarak ana sayfayı göreceksiniz. Bu sayfa genellikle Pokémon karakterlerinin bir listesini içerir. Her karakterin adı ve resmi bu listede yer alır.Pokémon listesi genellikle dikey olarak kaydırılabilir. Listeyi aşağı ve yukarı kaydırarak farklı Pokémon'ları görebilirsiniz.
 Bir Pokémon karakterine tıklayarak detay sayfasına geçiş yapabilirsiniz.
 ## Kullanılan API 
-
+https://pokeapi.co/api/v2/
 
 ## Ekran Görüntüleri
 ![Ekran görüntüsü 2024-06-11 105724](https://github.com/iremdanyildiz/mobil_application_project/assets/137508145/b80ea79d-2909-40a9-9a75-58ce34f9e66d)
@@ -81,7 +81,7 @@ Clicking on the detail page, you can switch to a Pokemon character.
 
 
 ## Used API
-
+https://pokeapi.co/api/v2/
 
 ## Screenshots
 
