@@ -82,6 +82,7 @@ Users can mark their favorite Pokemon, and is a feature where you can list.
 
 ![Ekran görüntüsü 2024-06-11 105724](https://github.com/iremdanyildiz/mobil_application_project/assets/137508145/efcfaa43-0832-45c2-bbce-63f01a955fbe)
 
-![Ekran görüntüsü 2024-06-11 105707](![Ekran görüntüsü 2024-06-11 110106](https://github.com/iremdanyildiz/mobil_application_project/assets/137508145/44fe86f9-5015-4dfa-935b-13b8a1b25382)
-https://github.com/iremdanyildiz/mobil_application_project/assets/137508145/fb5e4f0d-8c5c-411b-994d-5ce126e19519)
+![Ekran görüntüsü 2024-06-11 105707](https://github.com/iremdanyildiz/mobil_application_project/assets/137508145/cf65c494-4f73-48ae-aa36-d4377255bb74)
+
+![Ekran görüntüsü 2024-06-11 110106](https://github.com/iremdanyildiz/mobil_application_project/assets/137508145/d0fe5e97-20bd-4d3f-a738-e96a212b470c)
 
