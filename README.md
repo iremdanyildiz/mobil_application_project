@@ -32,12 +32,16 @@ Kullanıcıların favori Pokémon'larını işaretleyebileceği ve listeleyebile
 
 
 ## Kullanım
-
-
+Uygulamayı açtığınızda, ilk olarak ana sayfayı göreceksiniz. Bu sayfa genellikle Pokémon karakterlerinin bir listesini içerir. Her karakterin adı ve resmi bu listede yer alır.Pokémon listesi genellikle dikey olarak kaydırılabilir. Listeyi aşağı ve yukarı kaydırarak farklı Pokémon'ları görebilirsiniz.
+Bir Pokémon karakterine tıklayarak detay sayfasına geçiş yapabilirsiniz.
 ## Kullanılan API 
 
 
 ## Ekran Görüntüleri
+![Ekran görüntüsü 2024-06-11 105724](https://github.com/iremdanyildiz/mobil_application_project/assets/137508145/b80ea79d-2909-40a9-9a75-58ce34f9e66d)
+![Ekran görüntüsü 2024-06-11 105707](https://github.com/iremdanyildiz/mobil_application_project/assets/137508145/44028567-f422-4d05-9dea-91afd62f4c07)
+
+![Ekran görüntüsü 2024-06-11 110106](https://github.com/iremdanyildiz/mobil_application_project/assets/137508145/1b474ca4-b8d0-4557-b763-50a111a0f31e)
 
 
 
@@ -72,7 +76,8 @@ Users can mark their favorite Pokemon, and is a feature where you can list.
 
 
 ## Usage
-
+When you open the app, first you will see the main page. This page contains a list of Pokemon characters usually. Each character's name and will be included in the official list.Generally the list of Pokemon can be scrolled vertically. You can slide the list up and down to see different Pokemon. 
+Clicking on the detail page, you can switch to a Pokemon character.
 
 
 ## Used API
