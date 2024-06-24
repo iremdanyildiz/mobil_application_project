@@ -37,9 +37,7 @@ Kullanıcıların favori Pokémon'larını işaretleyebileceği ve listeleyebile
 ## Kullanılan API 
 
 
-## Ekran Görüntüleri![Ekran görüntüsü 2024-06-11 105724](https://github.com/iremdanyildiz/mobil_application_proj![Ekran görüntüsü 2024-06-11 105707](https://github.com/iremdanyildiz/mobil_application_project/assets/137508145/31e6d50f-ee3d-43f6-a555-d7a94e87013c)
-ect/assets/137508145/91b97656-c2b7-49fc-92de-7384fb9bf093)
-![Ekran görüntüsü 2024-06-11 110106](https://github.com/iremdanyildiz/mobil_application_project/assets/137508145/d6d7d950-4a5c-4492-8dd9-a39502cf06b3)
+## Ekran Görüntüleri
 
 
 
@@ -81,3 +79,9 @@ Users can mark their favorite Pokemon, and is a feature where you can list.
 
 
 ## Screenshots
+
+![Ekran görüntüsü 2024-06-11 105724](https://github.com/iremdanyildiz/mobil_application_project/assets/137508145/efcfaa43-0832-45c2-bbce-63f01a955fbe)
+
+![Ekran görüntüsü 2024-06-11 105707](![Ekran görüntüsü 2024-06-11 110106](https://github.com/iremdanyildiz/mobil_application_project/assets/137508145/44fe86f9-5015-4dfa-935b-13b8a1b25382)
+https://github.com/iremdanyildiz/mobil_application_project/assets/137508145/fb5e4f0d-8c5c-411b-994d-5ce126e19519)
+
